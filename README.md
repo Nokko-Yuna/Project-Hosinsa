@@ -9,4 +9,4 @@ team project used spring framework<br>
     * 게시판 및 댓글 CRUD 기능이 구현되었습니다.
 
 시연 영상
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/KsrBob5-ZGU" title="Project Hosinsa 시연" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/KsrBob5-ZGU
